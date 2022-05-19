@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(white,rgb(255, 192, 229),rgb(235, 151, 221),rgb(251, 97, 225),rgb(234, 62, 208),rgb(216, 28, 169));
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
